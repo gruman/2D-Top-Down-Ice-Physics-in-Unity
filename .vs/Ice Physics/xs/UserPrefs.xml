@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{14D610D2-B1D5-E85A-8756-223BF768D58F}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/PlayerController.cs">
+    <Files>
+      <File FileName="Assets/PlayerController.cs" Line="5" Column="20" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Ice Physics" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="PlayerController.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="123933e6-ac3a-40b0-96b0-ffd5d602e92f" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

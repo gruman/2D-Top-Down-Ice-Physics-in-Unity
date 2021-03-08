@@ -608,11 +608,17 @@
     <Reference Include="Unity.2D.SpriteShape.Editor">
       <HintPath>/Users/gruman/Unity/Ice Physics/Library/ScriptAssemblies/Unity.2D.SpriteShape.Editor.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.Recorder.Editor">
+      <HintPath>/Users/gruman/Unity/Ice Physics/Library/ScriptAssemblies/Unity.Recorder.Editor.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>/Users/gruman/Unity/Ice Physics/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.Path.Editor">
       <HintPath>/Users/gruman/Unity/Ice Physics/Library/ScriptAssemblies/Unity.2D.Path.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Recorder">
+      <HintPath>/Users/gruman/Unity/Ice Physics/Library/ScriptAssemblies/Unity.Recorder.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
       <HintPath>/Users/gruman/Unity/Ice Physics/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
@@ -631,6 +637,9 @@
     </Reference>
     <Reference Include="Unity.Rider.Editor">
       <HintPath>/Users/gruman/Unity/Ice Physics/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Recorder.Base">
+      <HintPath>/Users/gruman/Unity/Ice Physics/Library/ScriptAssemblies/Unity.Recorder.Base.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Mathematics">
       <HintPath>/Users/gruman/Unity/Ice Physics/Library/ScriptAssemblies/Unity.Mathematics.dll</HintPath>
